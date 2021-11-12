@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tarefa01KotlinAndroidLetsCode</string>
+    <string name="texto_superior">Olá mundo Android</string>
+    <string name="nome">Meu Nome</string>
+    <string name="oqfaco">O que faço</string>
+    <string name="idade">Idade</string>
+    <string name="loren">Loren</string>
+</resources>
